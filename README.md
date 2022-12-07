@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Made in Korea KR
+### Made in Korea 🇰🇷
 
 <!--
 **saetbyeoloh/saetbyeoloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
