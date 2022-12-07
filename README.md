@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 ### Learning
 ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![typescript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
-![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![html5](https://img.shields.io/badge/github-black.svg?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)
+![Notion](https://img.shields.io/badge/Notion-black.svg?style=flat-square&logo=Notion&logoColor=white)
+![SpringBoot](https://shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=FFF&style=flat-square)
