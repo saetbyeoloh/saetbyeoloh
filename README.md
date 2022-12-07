@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black)
 ![Notion](https://img.shields.io/badge/Notion-black.svg?style=flat-square&logo=Notion&logoColor=white)
 ![SpringBoot](https://shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=FFF&style=flat-square)
+![Eclipse](https://shields.io/badge/Eclipse-2C2255?logo=Eclipse&logoColor=FFF&style=flat-square)
