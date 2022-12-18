@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 ### I'm saet byeol oh
-#### junior Front-End Developer 
-#### currently learning..
+#### junior Developer 
 
 <!--
 **saetbyeoloh/saetbyeoloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
